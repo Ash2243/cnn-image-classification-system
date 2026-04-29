@@ -79,6 +79,14 @@ The model is trained to classify images into categories using deep learning tech
 
 ---
 
+## 📓 Notebook
+
+The complete model-building workflow is available here:
+
+`notebooks/cnn_image_classifier.ipynb`
+
+---
+
 ## 👤 Author
 
 Ash  

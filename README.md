@@ -91,6 +91,7 @@ The complete model-building workflow is available here:
 
 A small sample of test images is included in this repository for demonstration purposes.  
 The full dataset was used locally during model training and evaluation.
+Dataset - https://storage.googleapis.com/kaggle-data-sets/23777/30378/bundle/archive.zip
 
 ---
 
